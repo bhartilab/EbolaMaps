@@ -1,0 +1,14 @@
+Python:
+pandas
+numpy
+plotly
+scipy
+psutil
+
+R:
+magrittr
+readr
+dplyr
+ggrepel
+ggplot2
+grid

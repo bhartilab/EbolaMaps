@@ -5,4 +5,17 @@ Authors: Gonzalez, Nikparvar, Matson, Seifert, Ross, Munster, and Bharti
 
 Digitized maps 
 
-Code scripts -
+
+Code
+
+# Network transportation and outbreak analysis: 
+- linear_regression_models.R: Linear regression analyses for transportation networks and outbreak measures for Figure 3, Figures S2, S3, and S4.
+- outbreak_network_characteristics.R: Contains 1) the outbreak total cases and total cases in the first 100 days analysis for Figure 1b and 2) Network characteristics for roads and rivers for Figure 2. 
+
+# Sensitivity analysis 
+- sensitivity_analysis.py: Correlations between transportation networks and outbreak measures by study area for Figure S1.
+
+
+
+
+
